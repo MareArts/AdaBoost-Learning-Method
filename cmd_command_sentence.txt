@@ -1,0 +1,5 @@
+createsamples.exe -vec SimpleData640.vec -info positive640.txt -num 640 -w 24 -h 24 
+
+haartraining.exe -vec SimpleData640.vec -bg negative.txt -npos 640 -nneg 5524 -nstages 15 -nsplits 1 -mode ALL -w 24 -h 24
+
+
