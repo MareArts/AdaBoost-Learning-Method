@@ -11,5 +11,6 @@ There are many parts in Korean.
 
 Please note
 About AdaBoost on my blog : http://study.marearts.com/search/label/AdaBoost
+
 Good Tutorial for AdaBoost Learning(Korean) : http://darkpgmr.tistory.com/70
 
